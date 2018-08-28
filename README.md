@@ -5,9 +5,11 @@ This is a forked version of [`ember-cli-deprecation-workflow`](https://github.co
 
 Please review the original addon's README for installation and usage instructions.
 
-## Usage
+This package adds the ability to customize the config directory used.
 
-To customize, in app's ember-cli-build, add an entry under options for this addon:
+## Customization
+
+In your app's `ember-cli-build`, add an entry under options for this addon:
 
 ```javascript
 const options = {
