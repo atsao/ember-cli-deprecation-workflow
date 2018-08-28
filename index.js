@@ -2,11 +2,11 @@
 'use strict';
 
 module.exports = {
-  name: 'ember-cli-deprecation-workflow',
+  name: 'ember-cli-deprecation-workflow-plus',
 
   init: function() {
     this._super.init && this._super.init.apply(this, arguments);
-    
+
     this._templateDeprecations = [];
   },
 
