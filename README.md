@@ -1,3 +1,9 @@
+# Deprecated
+
+This addon is now deprecated and no longer maintained.
+
+Please use the official addon [ember-cli-deprecation-workflow](https://github.com/mixonic/ember-cli-deprecation-workflow) instead, as it includes the customization from this fork with version `1.0.0`.
+
 # ember-cli-deprecation-workflow-plus
 
 **NOTE**
